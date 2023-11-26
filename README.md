@@ -1,0 +1,1 @@
+# Hand-written-recognition-using-modified-CNN-algorithm
